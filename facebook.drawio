@@ -1,0 +1,460 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="7znSlUF-rKm3NwCapoyL">
+    <mxGraphModel dx="2170" dy="1396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-58" target="zerenaBr5MuE9G5FP-Lp-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-58" value="1. General Requirements&lt;div&gt;2. Specific requirements&lt;/div&gt;&lt;div&gt;3. Component architecture&lt;/div&gt;&lt;div&gt;4. Data Entities&lt;/div&gt;&lt;div&gt;5. Data APIs&lt;/div&gt;&lt;div&gt;6. Data Store&lt;/div&gt;&lt;div&gt;7. Infinite Scroll&lt;/div&gt;&lt;div&gt;8. Optimization&lt;/div&gt;&lt;div&gt;9. Accessbility&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=40;" parent="1" vertex="1">
+          <mxGeometry x="160" y="285" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-66" target="zerenaBr5MuE9G5FP-Lp-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-59" value="1. Infinite Scrollable, news feed based on the subscription / connection.&lt;div&gt;2. User can share the story&lt;/div&gt;&lt;div&gt;3. User can post the story, and attach comments, links, image and videos.&lt;/div&gt;&lt;div&gt;4. User can delete their story&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Share the story to other platforms&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=40;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-65" value="&lt;b&gt;Functional Requirements&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-67" value="1. We want to run our feature to varieties of devices&lt;div&gt;2. Our web app should accesible for people having disabilities&lt;/div&gt;&lt;div&gt;3. Open Graph Tag&lt;/div&gt;&lt;div&gt;4. Deep Linking&lt;/div&gt;&lt;div&gt;5. Reponsive Web APP&lt;/div&gt;&lt;div&gt;6. Off line Support&lt;/div&gt;&lt;div&gt;7. InternationalIzation&lt;/div&gt;&lt;div&gt;8. Security&lt;/div&gt;&lt;div&gt;9. Caching&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=40;" parent="1" vertex="1">
+          <mxGeometry x="450" y="450" width="245" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-59" target="zerenaBr5MuE9G5FP-Lp-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="370" as="sourcePoint" />
+            <mxPoint x="570" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-66" value="Non - functional requirements" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-92" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="190" width="340" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-93" value="&amp;nbsp; &amp;nbsp;John Walker" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="915" y="202.5" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-94" value="avatar" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="835" y="202.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-95" value="Text and Image&lt;div&gt;Content&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="835" y="267.5" width="290" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-96" value="Like" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="825" y="372.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-97" value="Comment" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="935" y="372.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-98" value="Share" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="372.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-114" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="800" y="480" width="360" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-115" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Text / Comment" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="900" y="490" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-116" value="Avatar-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="810" y="485" width="70" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-117" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Text / Comment" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="900" y="575" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-118" value="Avatar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="810" y="570" width="70" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-119" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Text / Comment" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="900" y="650" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-120" value="Avatar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="815" y="650" width="70" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-121" value="&lt;b&gt;Comment List&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="930" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-130" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="740" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-131" value="&lt;b&gt;Comment input&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="835" y="740" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-132" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="745" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-135" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="745" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-136" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="745" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-137" value="&lt;b&gt;Comment actions&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="715" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-150" target="zerenaBr5MuE9G5FP-Lp-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-150" value="&lt;b&gt;News Feed&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-151" target="zerenaBr5MuE9G5FP-Lp-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-151" target="zerenaBr5MuE9G5FP-Lp-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-151" target="zerenaBr5MuE9G5FP-Lp-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-151" value="&lt;b&gt;Story&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-152" value="&lt;b&gt;Story Card&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-153" target="zerenaBr5MuE9G5FP-Lp-155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-153" value="&lt;b&gt;Comment List&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-154" value="&lt;b&gt;Comment Input&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-155" value="&lt;b&gt;Comment&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-195" value="Type Story {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;id: String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;userId: String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;comments: [Comments]&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;metaData: MetaData&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;date: DateTime&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="220" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-196" value="Type Comments {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;postId: String&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;id: String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;userId: String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;text: String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;date: DateTime&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="367.5" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-197" value="Type MetaData {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;title: String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;media: [media_url]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;content: String&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="505" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-203" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Data Models&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-204" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Component Architecture&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-205" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Data API&#39;s&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2250" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-206" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. &lt;b&gt;getListofStory&lt;/b&gt;(String token);&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2. &lt;b&gt;postStory&lt;/b&gt;(String token, String postId);&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3. &lt;b&gt;addCommentsToPost&lt;/b&gt;(String token, String postId, Comment comment);&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4. &lt;b&gt;deleteComments&lt;/b&gt;(String token, String postId, String commentId);&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5. &lt;b&gt;deletePost&lt;/b&gt;(String token, String storyID);&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="190" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-208" target="zerenaBr5MuE9G5FP-Lp-210" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-208" target="zerenaBr5MuE9G5FP-Lp-211" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-208" value="&lt;b&gt;API&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2260" y="325" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-210" value="REST" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2170" y="375" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-211" target="zerenaBr5MuE9G5FP-Lp-214" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-211" value="GraphQL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2330" y="375" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-214" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GraphQL is very useFull because&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. We can handle event drive architecture&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2. Rate Limiting&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3. Caching&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4. We can get only the needed value for any specific compoent&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5. Query, Subscription, Mutation&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;6. TimeOut&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;7. GraphQL follows WS protocol.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2160" y="445" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-216" value="All these thing we can handle with graphQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="610" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-250" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;News feed&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zerenaBr5MuE9G5FP-Lp-272" target="zerenaBr5MuE9G5FP-Lp-273" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-272" value="&lt;b&gt;Client Side DataBases / Caching&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2730" y="157.5" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-273" value="HTTP Caching&lt;div&gt;In Memory Caching&lt;/div&gt;&lt;div&gt;Apollo Caching&lt;/div&gt;&lt;div&gt;StateManagement&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. Local Storage&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2. Session&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3. IndexedDB&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4. Cookies&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="2750" y="227.5" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-276" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;b&gt;State Manage tools&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2780" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-278" value="Context&lt;div&gt;Reducer&lt;/div&gt;&lt;div&gt;Redux&lt;/div&gt;&lt;div&gt;Zustand etc&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="2790" y="462.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-284" target="zerenaBr5MuE9G5FP-Lp-285" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-284" target="zerenaBr5MuE9G5FP-Lp-286" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-284" target="zerenaBr5MuE9G5FP-Lp-287" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-284" value="&lt;b&gt;LOAD NEW STORIES&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2250" y="680" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-285" target="zerenaBr5MuE9G5FP-Lp-291" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-285" value="LONG POOLING" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2160" y="750" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-286" target="zerenaBr5MuE9G5FP-Lp-293" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-286" value="SERVER SIDE EVENT" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2290" y="750" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-287" target="zerenaBr5MuE9G5FP-Lp-292" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-287" value="WEB SOCKET" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2410" y="750" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-291" value="Contant calling to the server&lt;div&gt;After some interval&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="880" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-292" value="It provide bi-directional&amp;nbsp;&lt;div&gt;communication&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2500" y="880" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-293" value="&lt;b&gt;Once the connection established&lt;/b&gt;&lt;div&gt;&lt;b&gt;If in the sever we got any update&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;server will send to the UI&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2210" y="870" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-297" target="zerenaBr5MuE9G5FP-Lp-299" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-297" target="zerenaBr5MuE9G5FP-Lp-300" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-297" value="&lt;b&gt;Ways to ListDown Stories&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="147.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-299" target="zerenaBr5MuE9G5FP-Lp-304" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-299" value="Pagination" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3100" y="245" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-300" target="zerenaBr5MuE9G5FP-Lp-305" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-300" value="Infinite Scroll" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3390" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-304" value="Pagination we are using generally for tables" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3075" y="315" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-305" value="We will go ahead with&amp;nbsp;&lt;div&gt;Infinite Scroll&lt;/div&gt;&lt;div&gt;this will give user to move easy to use&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3320" y="315" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-317" value="" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3090" y="522.5" width="500" height="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-308" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="440" width="290" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-309" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Post 1&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="440" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-310" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Like / Share&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="560" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-311" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Post 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="580" width="290" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-312" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Like / Share&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="711.25" width="290" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-313" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Post 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="760" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-314" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Like / Share&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="920" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-315" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Post 4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="960" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-316" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Like / Share&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="1120" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-318" value="Window Screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3470" y="630" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-319" value="We can achieve with the help of&lt;div&gt;InterSection Obsever&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3335" y="365" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-320" value="&lt;b&gt;Intersection Observer API&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3210" y="405" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-321" value="new InterSectionObserver(elements){&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;const tagetElements = elements[0];&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;const {isInterSection} = targetElements;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if(isInterSection) {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;fetchNewData();&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;updateLastObserver()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2780" y="571.25" width="280" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-322" value="&lt;b&gt;Data Flow&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-323" target="zerenaBr5MuE9G5FP-Lp-336" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-323" target="zerenaBr5MuE9G5FP-Lp-337" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-323" value="&lt;b&gt;Performance Optimization&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3770" y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-340" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-336" target="zerenaBr5MuE9G5FP-Lp-338" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-336" value="Network Optimization" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3730" y="197.5" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-337" value="Asset Optimization" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3910" y="197.5" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-338" value="Lazy loading&lt;div&gt;Loading JavaScript&lt;/div&gt;&lt;div&gt;Content Visibility&lt;/div&gt;&lt;div&gt;Serving ciritical css&lt;/div&gt;&lt;div&gt;Resource Hinting&lt;/div&gt;&lt;div&gt;Caching&lt;/div&gt;&lt;div&gt;CSR / SSR&lt;/div&gt;&lt;div&gt;Compression Technique&lt;/div&gt;&lt;div&gt;Layout Shift and Re-paints&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;strokeColor=none;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="3620" y="280" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-339" value="1. JavaScript Optimization&lt;div&gt;2. CSS Optimization&lt;/div&gt;&lt;div&gt;3. Images Optimization&lt;/div&gt;&lt;div&gt;4. Fonts&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;strokeColor=none;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="3930" y="280" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.571;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-337" target="zerenaBr5MuE9G5FP-Lp-339" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-345" target="zerenaBr5MuE9G5FP-Lp-346" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-345" target="zerenaBr5MuE9G5FP-Lp-349" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-345" target="zerenaBr5MuE9G5FP-Lp-348" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-345" target="zerenaBr5MuE9G5FP-Lp-350" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-345" value="JavaScript Optimization" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3930" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-346" value="&amp;lt;script /&amp;gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3755" y="560" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-348" value="&amp;lt;script defer /&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4010" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-349" value="&amp;lt;script async /&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3870" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-350" value="Web worker" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4140" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-355" target="zerenaBr5MuE9G5FP-Lp-357" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-355" target="zerenaBr5MuE9G5FP-Lp-359" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-355" value="Image Optimization" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3930" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-356" value="Compression" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3750" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-357" value="Lazy loading" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3880" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-358" value="Progressive Enhancement" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4000" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-359" value="Response Images" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4130" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-360" value="Adaptive Images" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3830" y="830" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-361" value="Blur Effect" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3960" y="830" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-362" value="Solid Color&amp;nbsp;&lt;div&gt;technique&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4090" y="830" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.579;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-355" target="zerenaBr5MuE9G5FP-Lp-356" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.612;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-355" target="zerenaBr5MuE9G5FP-Lp-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-371" target="zerenaBr5MuE9G5FP-Lp-372" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-378" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-371" target="zerenaBr5MuE9G5FP-Lp-375" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-381" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-371" target="zerenaBr5MuE9G5FP-Lp-376" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-371" value="CSS Optimization" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4500" y="405" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-372" value="media=&quot;print&quot;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4300" y="477.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-373" value="media=&quot;all&quot;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4440" y="477.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-375" value="Media queries&lt;div&gt;to load css&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4690" y="467.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-376" value="Pre Loading critical CSS" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4575" y="475" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-379" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-371" target="zerenaBr5MuE9G5FP-Lp-373" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-390" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-382" target="zerenaBr5MuE9G5FP-Lp-383" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-382" target="zerenaBr5MuE9G5FP-Lp-387" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-382" target="zerenaBr5MuE9G5FP-Lp-384" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="zerenaBr5MuE9G5FP-Lp-382" target="zerenaBr5MuE9G5FP-Lp-389" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-382" value="Fonts Optimization" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4420" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-383" value="WOFF" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4300" y="736.25" width="60" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-384" value="Fallback fonts" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4500" y="729.06" width="100" height="45.62" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-387" value="WOFF 2" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4400" y="736.25" width="60" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-389" value="rel=&quot;preload&quot;" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4640" y="727.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-394" value="Caching" style="whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3800" y="605" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-395" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Accessibility&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="4950" y="327.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zerenaBr5MuE9G5FP-Lp-396" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Support different Colors&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. color contrast,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. zoom support,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. keyboard support&lt;/div&gt;&lt;div&gt;5. screenreader support&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4930" y="367.5" width="170" height="142.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
